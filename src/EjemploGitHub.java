@@ -6,6 +6,8 @@ public class EjemploGitHub {
 		System.out.println("Hola alumnos de POO");
 		
 		String nombre = "Mi nombre es Eduardo";
+		
+		System.out.println(nombre);
 	}
 
 }
